@@ -91,15 +91,17 @@ body {
 }
 .nav2 {
   box-sizing: border-box;
-  border: 50px solid lightpink;
-  background-color: lightsalmon;
-  margin: auto;
+  background-color: lightpink;
+  width: 150px;
+  height: 150px;
+  top: 150px;
+  left: 150px;
 }
 .nav3 {
   box-sizing: border-box;
-  border: 10px solid purple;
+  border: 5px solid palevioletred;
   background-color: orchid;
-  margin: auto;
+  margin: 50px;
   word-spacing: 10px;
 }
 .nav4 {
